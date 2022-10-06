@@ -1,0 +1,21 @@
+* {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: right;
+}
+
+
+#footer {
+    height: 300px;
+    max-width: none;
+    background-color: rgb(42, 42, 42);
+
+}
+
+#img{
+    
+    background-image: url("/images/img1.jpghttps://d2v9ipibika81v.cloudfront.net/uploads/sites/42/Topista-Tukahirwa-31-planted-almost-9-acres-of-maize-in-her-garden.-She-said-the-hybrid-grains-when-planted-yield-bigger-and-heavier-corn--1140x684.jpg");
+    background-position: center;
+    background-size: cover;
+    
+}
