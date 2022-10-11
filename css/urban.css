@@ -29,11 +29,6 @@
     height: 600px
 }
 
-/* .img1 img {
-    height: 100vh;
-    overflow: hidden;
-} */
-
 #img{
     
     background-image: url(/images/img1.jpg);
@@ -57,16 +52,12 @@
     height: 50px;
 }
 
-/* .card-body{
-    position: absolute;
-    top: 50%;
-    text-align: center;
-} */
 .card-button{
-    position: static; 
+    position: static;
+    height: 75px;
+    width: 170px;
+    margin-right: 20px;
 }
-
-
 
 .card-text{
     text-align: justify;
@@ -75,11 +66,70 @@
     text-align: justify;
 }
 
-/* .btn{
-    position:absolute;
-    bottom: 0px;
-    
-    text-align: center;
-} */
+.container{
+    width: 80%;
+    height: 60%;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right:10%;
+    padding-top: 20px;
+    background-color: rgb(221, 221, 221);
+    position: relative;
+    border-style: dotted;
+    border-radius: 10px;
+    border-color: black;
+}
 
+.container1{
+    width: 60vh;
+    height:80vh; 
+    background-color: rgb(221, 221, 221);
+    position: relative;
+}
 
+.details{
+    background-color: rgb(255, 255, 255);
+    height: 40px;
+    text-align: left;
+    padding: 10px;
+}
+
+.container2{
+    width: 40vh;
+    height: 80vh;
+    border-width: 2px;
+    border-color: black;
+    align-content: center;
+}
+#imgPic{
+    object-fit: cover;
+}
+
+#signIn{
+    width:auto;
+    height: 80vh;
+    align-content: center;
+}
+#input{
+    margin-left: 10px;
+}
+.row{
+    padding-top: 30px;
+    padding-left: 2px;
+}
+.signIn{
+    position: static;
+    height: 75px;
+    width: 170px;
+    margin-right: 50px;
+    padding-top: 50px;
+}
+.dashBtn{
+    position: static;
+    height: 75px;
+    width: 170px;
+    margin-right: 50px;
+    padding-top: 50px;
+    text-decoration-color: white;
+
+}

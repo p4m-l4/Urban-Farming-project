@@ -1,0 +1,30 @@
+{
+  "name": "urban-farming-initiative",
+  "version": "1.0.0",
+  "description": "urban farming project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p4m-l4/Urban-Farming-project.git"
+  },
+  "keywords": [
+    "javascript",
+    "css",
+    "node",
+    "html"
+  ],
+  "author": "pamela namala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p4m-l4/Urban-Farming-project/issues"
+  },
+  "homepage": "https://github.com/p4m-l4/Urban-Farming-project#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  }
+}
