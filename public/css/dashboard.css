@@ -1,0 +1,48 @@
+* {
+	text-align: center;
+}
+
+.heading {
+	padding-top: 50px;
+}
+
+.row {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.form {
+	background-color: rgba(0, 0, 0, 0.091);
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#footer {
+	height: 300px;
+	max-width: none;
+	background-color: rgb(42, 42, 42);
+}
+
+.text {
+	text-align: left;
+	width: 70%;
+	height: 50px;
+	margin-bottom: 50px;
+}
+
+.dashBtn {
+	height: 75px;
+	width: 200px;
+	margin: 60px;
+	text-align: center;
+}
+
+.container3 {
+	height: 90vh;
+	width: 30vh;
+	background-color: rgba(44, 43, 43, 0.235);
+}
+
+.logout {
+    margin-top: 0vh;
+}
